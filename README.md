@@ -1,5 +1,7 @@
 # marvel-to-mysql
 
+Data provided by Marvel. © 2014 Marvel
+
 Marvel Data Loader with Airflow and MySQL
 This repository contains a Python project that extracts data from the Marvel API, loads it into a MySQL database, and orchestrates the data pipelines using Apache Airflow.
 
